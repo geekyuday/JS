@@ -5,7 +5,7 @@ const repoCount = 20;
 
 console.log(name + repoCount + "value");  // concatenate
 
-// backtick with string repolation
+// backtick with string 
 console.log(`hello my name is ${name} and my repoCount is ${repoCount}`);
 
 const gameName = new String("Platinum");
