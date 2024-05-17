@@ -1,4 +1,4 @@
-/*
+
 
 let score = "33abc";
 console.log(typeof score)
@@ -16,7 +16,7 @@ true : 1 , fslse : 0;
 
 */
 
-/*
+
 let isloggedIn = 1;
 let booelanIslOggedIn = Boolean(isloggedIn)
 console.log(booelanIslOggedIn);
@@ -28,7 +28,7 @@ console.log(stringNUmber);
 console.log(typeof stringNUmber);
 
 
-*/
+
 
 /*******************operation*****************/
 let str1 = "geeky";

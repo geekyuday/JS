@@ -1,4 +1,4 @@
-/*
+
 
 const name = "Uday";
 const repoCount = 20;
@@ -21,7 +21,7 @@ console.log(gameName.substring(0,5));
 const p = gameName.slice(-8,4);
 console.log(p);
 
-*/
+
 
 const url = "https://geekyUday.com/uday%20kumar";
 console.log(url);
