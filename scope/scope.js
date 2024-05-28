@@ -35,11 +35,16 @@ if(true){
 
 //********* Interesting **********//
 
+
+console.log(addone(5)); // Hoiesting
 function addone(num){
     return num + 1;
 }
 
 //console.log(addone(5));
+
+
+// console.log(addtwo(5));  // gives error in hoiesting because it is stored in variable
 
 const addtwo = function(num){
     return num + 2;
