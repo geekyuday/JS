@@ -25,3 +25,4 @@ for(const [key,value] of map){
 
 
 // object is not Iterable using :- for of operator
+// object is iterable using for in loop
